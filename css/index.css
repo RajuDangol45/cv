@@ -1,0 +1,21 @@
+.brown-text{
+    color: brown;
+}
+.name-address, .contact-address, .date-nationality {
+    padding: 8px 25px;
+}
+.no-padding{
+    padding: 0;
+}
+.job-title{
+    margin-top: 0;
+}
+.sub-heading{
+    padding-top: 15px;
+}
+.personal-summary-1, .personal-summary-2, .academic-qualifications, .experience, .references{
+    padding: 0 22px;
+}
+.personal-summary{
+    padding: 20px !important;
+}
