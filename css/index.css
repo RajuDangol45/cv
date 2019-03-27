@@ -19,3 +19,10 @@
 .personal-summary{
     padding: 20px !important;
 }
+.job-experiences{
+    padding: 10px;
+    margin: 10px;
+}
+.job-experiences .sub-heading{
+    padding-top: 0px;
+}
